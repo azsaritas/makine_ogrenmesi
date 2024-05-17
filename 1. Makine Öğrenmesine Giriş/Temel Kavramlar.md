@@ -1,6 +1,8 @@
-# Makine Öğrenmesi
+# Makine Öğrenmesi Nedir?
 
-Makine öğrenmesi, bilgisayar sistemlerinin programlanmadan, veri ve deneyimlerden öğrenme yeteneğini kazanması sürecidir. Bu süreçte, algoritmalar ve istatistiksel modeller kullanılarak verilerden anlamlı desenler ve bilgiler çıkarılır. Makine öğrenmesi, çeşitli veri kümeleri üzerinde çalışarak tahminler yapabilir, örüntüleri tanıyabilir ve zamanla bu tahmin ve örüntü tanımalarını iyileştirebilir.
+Makine öğrenmesi, bilgisayarların açıkça programlanmadan deneyimlerinden ve verilerden öğrenmelerini sağlayan yapay zekanın (YZ) bir alt dalıdır. Bu alandaki algoritmalar, veri kümelerinden örüntüleri ve ilişkileri otomatik olarak çıkararak, zamanla performanslarını ve tahminlerini geliştirmeyi amaçlar.
+
+Basitçe ifade etmek gerekirse, makine öğrenmesi bilgisayarlara "öğretme" işlemidir. Bu "öğretme" işlemi, çeşitli algoritmalar ve teknikler kullanılarak gerçekleştirilir ve bilgisayarları, insan müdahalesi olmadan karmaşık görevleri yerine getirmeye ve tahminlerde bulunmaya yetkin hale getirir.
 
 ## Makine Öğrenmesi Türleri
 
