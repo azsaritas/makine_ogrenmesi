@@ -1,0 +1,30 @@
+# Makine Öğrenmesinin Tarihi
+
+Makine öğrenmesinin tarihindeki bazı önemli dönüm noktaları:
+
+- **1950:** Alan Turing, "Computing Machinery and Intelligence" adlı makalesinde makinelerin düşünebilme yeteneğini tartıştı ve Turing Testi'ni önerdi.
+
+- **1952:** Arthur Samuel, dama oyunu oynayan bir program geliştirdi ve bu program zamanla oynadıkça daha iyi performans göstermeye başladı. Bu çalışma, makine öğrenmesinin ilk örneklerinden biri olarak kabul edilir.
+
+- **1957:** Frank Rosenblatt, ilk yapay sinir ağı olan Perceptron'u geliştirdi. Perceptron, basit görsel örüntüleri tanıyabiliyordu.
+
+- **1960:** Widrow ve Hoff, Adaline ve Madaline olarak bilinen erken sinir ağı modellerini geliştirdi.
+- **1967:** Nearest Neighbor algoritması tanıtıldı. Bu algoritma, sınıflandırma problemleri için temel taşlardan biri haline geldi.
+- **1970'ler:** İlk uzman sistemler geliştirildi. Bu sistemler, belirli alanlardaki uzman bilgilerini kullanarak karar verme süreçlerine yardımcı oldu.
+
+- **1980:** John Hopfield, Hopfield ağı olarak bilinen ve içerdiği geri beslemeli yapılar sayesinde bellek modelleri oluşturabilen sinir ağını tanıttı.
+- **1986:** Geoffrey Hinton, David Rumelhart ve Ronald Williams, geri yayılım (backpropagation) algoritmasını popüler hale getirdi. Bu algoritma, çok katmanlı sinir ağlarının eğitimini mümkün kıldı ve derin öğrenmenin temelini oluşturdu.
+
+- **1990'lar:** Destek Vektör Makineleri (Support Vector Machines, SVM) tanıtıldı ve popüler hale geldi. SVM'ler, yüksek doğruluk oranlarıyla birçok sınıflandırma probleminde başarıyla kullanıldı.
+- **1997:** IBM'in Deep Blue bilgisayarı, dünya satranç şampiyonu Garry Kasparov'u yenerek önemli bir dönüm noktasına imza attı.
+
+- **2006:** Geoffrey Hinton, derin inanç ağlarını (Deep Belief Networks, DBN) tanıttı. Bu ağlar, derin öğrenmenin yeniden popüler hale gelmesine katkıda bulundu.
+- **2009:** Imagenet projesi başlatıldı. Bu proje, büyük ölçekli görsel tanıma veri seti sağlayarak derin öğrenme modellerinin geliştirilmesine büyük katkıda bulundu.
+
+- **2012:** AlexNet, ImageNet yarışmasında büyük bir başarı elde etti. Bu olay, derin öğrenmenin bilgisayarla görme (computer vision) alanındaki üstünlüğünü gösterdi.
+- **2014:** Google, "TensorFlow" adlı açık kaynaklı makine öğrenmesi kütüphanesini piyasaya sürdü.
+- **2016:** Google DeepMind'in geliştirdiği AlphaGo, dünyanın en iyi Go oyuncularından biri olan Lee Sedol'u yenerek büyük bir başarı elde etti.
+
+- **2020+:** Makine öğrenmesi ve yapay zeka, sağlık, finans, perakende ve otomotiv gibi birçok sektörde geniş çapta uygulanmaya devam etmektedir. Derin öğrenme, doğal dil işleme (NLP), otonom araçlar ve diğer alanlarda önemli ilerlemeler kaydetmiştir.
+OpenAI, ChatGPT adlı yapay zeka modelini, Google ise Gemini adlı modelini piyasaya sürmüş ve bu modeller gündelik hayatta yaygın kullanılmaya başlamıştır.
+
