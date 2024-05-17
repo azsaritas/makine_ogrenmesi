@@ -23,4 +23,4 @@ Makine öğrenmesi, günlük yaşamımızda birçok alanda kullanılır. Örneğ
 - **Sağlık:** Hastalık teşhisi ve tedavi önerileri gibi tıbbi alanlarda kullanılır.
 - **Finans:** Hisse senedi fiyat tahminleri, kredi risk değerlendirmeleri gibi finansal analizlerde kullanılır.
 
-Makine öğrenmesi, büyük veri (big data) ve hesaplama gücündeki ilerlemelerle birlikte hızla gelişmekte olan bir alandır ve birçok sektörde devrim niteliğinde değişiklikler yapma potansiyeline sahiptir. Bu teknolojinin temelinde yatan algoritmalar ve teknikler, bilgisayar bilimi, istatistik ve matematik gibi 
+Makine öğrenmesi, büyük veri (big data) ve hesaplama gücündeki ilerlemelerle birlikte hızla gelişmekte olan bir alandır ve birçok sektörde devrim niteliğinde değişiklikler yapma potansiyeline sahiptir. Bu teknolojinin temelinde yatan algoritmalar ve teknikler, bilgisayar bilimi, istatistik ve matematik gibi disiplinlerin kesişiminde yer alır ve sürekli olarak gelişmeye devam etmektedir.
