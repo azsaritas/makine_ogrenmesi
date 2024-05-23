@@ -9,8 +9,11 @@ Bu repoda makine öğrenmesi hakkında temel bilgiler ve örnek uygulamalar veri
 - Sınıflandırma Algoritmaları (K-NN, Karar Ağacı, Destek Vektör Makineleri, Lojistik Regresyon, Rastgele Orman, Naive Bayes)
 - Kümeleme Algoritmaları (K-Means, DBSCAN)
 
-### Kullanılan Dil: Python 3.10
-### Kullanılan Kütüphaneler: Matplotlib, Seaborn, Numpy, Pandas, Math, Sklearn, Dtreeviz, Graphviz
+### Kullanılan Dil: 
+- Python 3.10
+
+### Kullanılan Kütüphaneler:
+- Matplotlib, Seaborn, Numpy, Pandas, Math, Sklearn, Dtreeviz, Graphviz
 
 
 
